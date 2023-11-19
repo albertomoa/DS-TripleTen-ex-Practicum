@@ -5,8 +5,8 @@ A summary of multiple projects within this repository
 
 ## Table of Contents
 
-1. [Project 1: Y. Music Preferences](#project-1-y-music-preferences)
-2. [Project 2: Loan Risk Analysis](#project-2-loan-risk-analysis)
+1. [Project 1: Y. Music Preferences](#y-music-preferences)
+2. [Project 2: Loan Risk Analysis](#loan-risk-analysis)
 3. [Project 3: Car Price Analysis](#project-3-car-price-analysis)
 4. [Project 4: Telecommunication Plan Analysis](#project-4-telecommunication-plan-analysis)
 5. [Project 5: Ice Store Game Analysis](#project-5-ice-store-game-analysis)
