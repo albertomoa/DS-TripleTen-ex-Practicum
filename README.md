@@ -5,7 +5,7 @@ A summary of multiple projects within this repository
 
 ## Table of Contents
 
-1. [Project 1: Y. Music Preferences](#project-1-project-one-name)
+1. [Project 1: Y. Music Preferences](#project-1-Y.%20Music%20Preferences)
 2. [Project 2: Loan Risk Analysis](#project-2-project-two-name)
 3. [Project 3: Car Price Analysis](#project-3-project-three-name)
 4. [Project 4: Telecomunication Plan Analysis](#project-4-project-four-name)
