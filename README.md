@@ -1,7 +1,7 @@
 # DS-TripleTen-ex-Practicum-Data-Visualization-Exploration
 TripleTen Data Scientist Sprint Project focuses on Data Visualization and Exploration
 
-A summary of multiple projects within this repository.
+A summary of multiple projects within this repository
 
 ## Table of Contents
 
@@ -13,28 +13,30 @@ A summary of multiple projects within this repository.
 
 ## Project 1: Y. Music Preferences
 
+**Music Preferences Analysis: Springfield vs. Shelbyville**
 In this data analysis project, we explore the music preferences of users in Springfield and Shelbyville using real Y.Music data. Our primary objectives include investigating how user activity varies across days and cities, discerning city-specific genre preferences during Monday mornings and Friday nights, and exploring the hypothesis of divergent musical tastes between the two cities—pop music in Springfield and rap in Shelbyville. Through meticulous analysis, we aim to uncover patterns that not only enhance our understanding of user behavior but also provide valuable insights for strategic decision-making in the music industry.
 
 [Project 1](./Project%201)
 
-## Project 2: Project Two Name
+## Project 2: Loan Risk Analysis
 
-Brief description of Project Two.
+**Credit Risk Assessment: Marital Status, Children, and Loan Repayment**
+In this project, the focus is on preparing reports for a bank's credit division, aiming to uncover the impact of a customer's marital status and the number of children on the likelihood of defaulting on loan repayment. Leveraging existing customer credit data, the generated reports play a vital role in the credit assessment process for potential customers, utilizing credit scoring as a tool to evaluate their ability to repay loans.
 
-[Link to Project Two Folder](./project-two)
+The project sets out to validate hypotheses regarding the relationship between marital status and the probability of loan default, comparing repayment patterns of single and married customers, examining the influence of income levels on repayment consistency, and investigating whether the stated purpose of the loan is a significant factor in default occurrences. Through comprehensive data analysis, the project seeks to provide actionable insights that enhance the bank's credit scoring system, aiding in more informed decision-making for assessing the creditworthiness of future customers.
 
-## Project 3: Project Three Name
+[Project 2](./Project%202)
 
-Brief description of Project Three.
+## Project 3: Car Price Analysis
 
-### Subproject A: Subproject A Name
+**Vehicle Price Analysis at Crankshaft List**
+As an analyst at Crankshaft List, my focus is on analyzing data from thousands of free vehicle sales advertisements to identify the influential factors that shape vehicle prices. The core objectives of the project include validating the hypothesis that multiple factors collectively influence the sale price of a vehicle, with a keen exploration of key determinants such as age, mileage, transmission type, condition, and color. Going deeper, the analysis aims to confirm the inverse relationship between age/mileage and retail price, examine the impact of a vehicle's condition, and explore whether automatic transmission and black color contribute to higher retail prices. This comprehensive research aims to unravel the complex web of factors that influence vehicle prices on the Crankshaft List website, providing essential insight for informed decision-making.
 
-Brief description of Subproject A.
+[Project 3](./Project%203)
 
-[Link to Subproject A Folder](./project-three/subproject-a)
+### Project 4: Telecomunication Plan Analysis
 
-### Subproject B: Subproject B Name
+**Prepaid Plan Analysis at Megaline**
+As an analyst at Megaline, the objective is to delve into the behavior of prepaid plan users—Surf and Ultimate—based on a dataset encompassing client details, call records, SMS usage, and web session data. The project aims to conduct a hypothesis test to discern any significant difference in the average income of Surf plan users compared to Ultimate plan users. Additionally, the analysis seeks to validate the hypothesis that revenue from users in the NY-NJ area surpasses that of other regions, providing critical insights for optimizing advertising budgets. Through this examination, the project aims to offer Megaline valuable insights for strategic decision-making in promoting and tailoring their prepaid plans.
 
-Brief description of Subproject B.
-
-[Link to Subproject B Folder](./project-three/subproject-b)
+[Project 4](./Project%204)
