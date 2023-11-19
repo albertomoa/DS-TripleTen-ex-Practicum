@@ -9,7 +9,7 @@ A summary of multiple projects within this repository
 2. [Project 2: Loan Risk Analysis](#project-2-project-two-name)
 3. [Project 3: Car Price Analysis](#project-3-project-three-name)
 4. [Project 4: Telecomunication Plan Analysis](#project-4-project-four-name)
-5. [Project 5: Ice Store Game Analysis](#project-5-project-five-name)
+5. [Project 5: Ice Store Game Analysis](#project-5-Ice%20Store%20Game%20Analysis)
 
 ## Project 1: Y. Music Preferences
 
