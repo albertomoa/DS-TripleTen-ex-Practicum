@@ -37,7 +37,7 @@ As an analyst at Crankshaft List, my focus is on analyzing data from thousands o
 
 [Project 3](./Project%203)
 
-### Project 4: Telecommunication Plan Analysis
+## Project 4: Telecommunication Plan Analysis
 
 **Prepaid Plan Analysis at Megaline**
 
@@ -45,7 +45,7 @@ As an analyst at Megaline, the objective is to delve into the behavior of prepai
 
 [Project 4](./Project%204)
 
-### Project 5: Ice Store Game Analysis
+## Project 5: Ice Store Game Analysis
 
 **Game Sales and Popularity Analysis**
 
